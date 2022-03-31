@@ -14,19 +14,19 @@ author: Fábio Madeira
 # jekyllt.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
 baseurl: /Joie-Resume-/
-title: Mong Phan's Resume
-name: Mong Phan
-email: mongphantan@gmail.com
+title: Joie Nhu Nguyen's Resume
+name: Nhu Nguyen 
+email: nhunguyen.ja@gmail.com
 email_full: 
 website: 
 website_full: 
 github: trending
 twitter: twitter
-tel: +84 xxxx xxx xxx
+tel: +84 944118811
 tel_full: tel:+840000000000
 google_maps: 
 address:
-  street: ABC street
+  street: Nguyen Van Troi Street
   postcode: 7000000
   city: Ho Chi Minh
   country: Vietnam
